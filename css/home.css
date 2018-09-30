@@ -1,0 +1,19 @@
+.section-search input{
+	padding: 5px !important;
+	font-size: 18px !important;
+	width: 90% !important;
+	border: #f4f4f4 !important;
+}
+
+.section-follow img{
+	width: 50px;
+	margin: 5px 10px;
+}
+
+.section-icon img{
+	width: 70px;
+}
+
+.section-contact #email{
+	width: 70px;
+}
